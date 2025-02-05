@@ -39,6 +39,7 @@ To run this project locally, follow these steps:
 
 - Sign up at [OpenWeatherMap API](https://home.openweathermap.org/users/sign_in) to get a free API key.
 - Create a **.env** file in the root directory and add your API key:
+
     ```bash
    REACT_APP_WEATHER_API_KEY=your_api_key_here
 
