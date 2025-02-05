@@ -25,25 +25,29 @@ Welcome to the Weather App repository! This application provides real-time weath
 To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/vedant-2701/Weather-App.git
    cd Weather-App
 
 2. **Install Dependencies**:
+
     ```bash
    npm install
 
 3. **Obtain API Key**:
+
 - Sign up at [OpenWeatherMap API](https://home.openweathermap.org/users/sign_in) to get a free API key.
 - Create a **.env** file in the root directory and add your API key:
     ```bash
    REACT_APP_WEATHER_API_KEY=your_api_key_here
 
 4. **Start the Application**:
+
     ```bash
     npm run dev
 
-The app will be available at [http://localhost:3000](http://localhost:3000).
+The app will be available at [http://localhost:5173](http://localhost:5173).
 
 ---
 
